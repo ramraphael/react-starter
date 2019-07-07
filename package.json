@@ -1,7 +1,7 @@
 {
-  "name": "react-boilerplate",
+  "name": "react-starter",
   "version": "1.0.0",
-  "description": "Boilerplate for React applications. Uses webpack and styled-components.",
+  "description": "Starter code for React applications. Spend less time tooling, and more time building, React/Webpack/Styled Components.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
