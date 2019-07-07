@@ -27,5 +27,8 @@ module.exports = {
   },
   plugins: [new HtmlWebpackPlugin({
     template: path.join(__dirname, '/client/index.html')
-  })]
+  })],
+  resolve: {
+    extensions: ['.vue', '.js']
+  }
 }
